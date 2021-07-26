@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taouil-Jihad
-- 👀 I’m interested in real time programmation
+- 👀 I’m interested in real time programmation and programation Low level for microcontrolers.
 - 🌱 I’m currently learning FreeRTOS and Linus RT. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taouiljihad@gmail.com
